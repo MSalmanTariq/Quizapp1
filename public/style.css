@@ -1,0 +1,197 @@
+
+
+
+/* INDEX */
+
+#load {
+    width: 50%;
+   
+   
+    float: right;
+    
+}
+
+#quiz{
+      width: 40%;
+      height: 50%;
+      margin: 5% auto;
+}
+
+.index{
+    background-color: #e5eff1;
+}
+
+.center1{
+
+	
+	height:150px;
+	position:absolute;
+	left:54%;
+	top:50%;
+	margin:-75px 0 0 -135px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* LOGIN */
+.login{
+    background-color: #3b5998;
+
+}
+
+.log_div{
+     vertical-align: middle;
+     text-align: center;
+    /* width: 100%;
+    margin: 100px auto;
+    padding-top: 20px;   */
+    color: #ffffff;
+ background-color: #3b5998;
+ margin-bottom: 0%;
+}
+
+.log_div2{
+    text-align: center;
+    vertical-align: middle;
+    color: #ffffff;
+background-color: #3b5998;
+
+}
+#log_in2{
+    vertical-align: middle;
+    padding-right:7%;
+    padding-top:4px;
+     padding-bottom:4px; 
+ /*    padding-top: 30px;
+    padding-bottom: 10px; */
+}
+#log_in1{
+    vertical-align: middle;
+    padding-right:7%; 
+    padding-top:4px;
+     padding-bottom:4px; 
+ /*    padding-top: 30px;
+    padding-bottom: 10px; */
+}
+#log_img1{
+ vertical-align: middle;
+}
+#log_img2{
+ vertical-align: middle;
+}
+#log_div3{
+     text-align: center;
+    vertical-align: middle;
+    color: #ffffff;
+background-color: #3b5998;
+ vertical-align: middle;
+ margin-bottom: 2%;
+ margin-top: 2%;
+ 
+}
+#log_img3{
+    padding-left: 2%;
+}
+#log_l1{
+font-size: 230%;
+}
+#bt_log{
+    
+    text-align: center;
+  display: flex;
+   justify-content: center;
+   margin: 15px auto;
+  padding: 10px 30px;
+   
+
+}
+#bt_sign1{
+    
+  
+    text-align: center;
+    display: flex;
+   justify-content: center;
+     margin: -10px auto;
+    
+  padding: 10px 25px;
+    
+
+    
+}
+
+
+
+
+
+
+
+
+/* SIGNUP */
+
+.signup{
+     background-color: #3b5998;
+}
+
+#sign_div1{
+     text-align: center;
+    vertical-align: middle;
+    color: #ffffff;
+background-color: #3b5998;
+ vertical-align: middle;
+ margin-bottom: 1%;
+ 
+ 
+}
+#sign_div2{
+    width: 40%;
+    margin: 0px auto;
+}
+
+#sign_l1{
+font-size: 230%;
+}
+
+#sign_img1{
+    padding-left: 1%;
+}
+
+.sign_in{
+   position: relative;
+             display: block;
+             margin : 0 auto;
+             padding: 5px 20px;
+  
+
+
+}
+#sign_lab{
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+             display: block;
+             margin : 0 auto;
+}
+
+.sign_btn{
+    position: relative;
+             display: block;
+             margin : 10px auto;
+             padding: 6px 35px;
+}
+.sign_btn2{
+    position: relative;
+             display: block;
+             margin : 10px auto;
+             padding: 6px 40px;
+}
